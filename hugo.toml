@@ -1,4 +1,4 @@
-baseURL = 'https://carlospadilla.github.io/'
+baseURL = 'https://carlospadilla.github.io/blog'
 languageCode = 'en-us'
 title = 'Golander`s site'
 theme = 'ananke'
