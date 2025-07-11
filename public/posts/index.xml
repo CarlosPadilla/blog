@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Golander`s site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Golander`s site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jul 2025 16:46:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Jul 2025 16:46:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Here is my first post, I am learning how to setup a github site along with learning how to use hugo as a website render&lt;/p&gt;&#xA;&lt;p&gt;Regards,&#xA;Golander.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

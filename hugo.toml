@@ -1,0 +1,4 @@
+baseURL = 'https://golander.github.io/'
+languageCode = 'en-us'
+title = 'Golander`s site'
+theme = 'ananke'
